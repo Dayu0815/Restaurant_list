@@ -20,7 +20,7 @@
   * 圖片
 
 * 可以點選地址旁的地圖標示 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/location-arrow.svg" width="15" height="15"> 可連結到 Google Map
-<i class="fa-solid fa-map-location"></i>
+<font-awesome-icon icon="fa-solid fa-map-location" />
 * 使用者可以有多種方式搜尋餐廳：
   * 餐廳名稱
   * 餐廳類別
