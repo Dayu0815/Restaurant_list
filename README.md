@@ -33,7 +33,7 @@ step 1. 點選 Code / Clone / HTTPS 專案至本機電腦，或是打開 termina
 step 2. 進入專案資料夾，在終端機輸入：cd Restaurant_list
 ```
 ```
-step 3. 安裝 npm 套件，在終端機輸入：npm install
+step 3. 安裝 npm 套件，依序安裝啟動器<npm init -y> ，安裝<Expressnpm i express@4.16.4>
 ```
 ```
 step 4. 執行專案，在終端機輸入：npm run dev
