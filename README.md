@@ -19,7 +19,7 @@
   * 描述
   * 圖片
 
-* 可以點選地址旁的地圖標示 <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Font_Awesome_5_solid_map-marked-alt.svg" width="30" height="30"> 可連結到 Google Map
+* 可以透過點選地圖標示 <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Font_Awesome_5_solid_map-marked-alt.svg" width="30" height="30"> ，連結至 Google Map，以利查看餐廳正確位置
 
 * 可以有 2 種方式搜尋餐廳：
   * 餐廳名稱
