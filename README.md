@@ -19,8 +19,8 @@
   * 描述
   * 圖片
 
-* 可以點選地址旁的地圖標示 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/location-arrow.svg" width="15" height="15"> 可連結到 Google Map
-<font-awesome-icon icon="fa-solid fa-map-location" />
+* 可以點選地址旁的地圖標示 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Font_Awesome_5_solid_map-marked-alt.svg/512px-Font_Awesome_5_solid_map-marked-alt.svg" width="15" height="15"> 可連結到 Google Map
+
 * 使用者可以有多種方式搜尋餐廳：
   * 餐廳名稱
   * 餐廳類別
