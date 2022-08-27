@@ -21,19 +21,19 @@ app.get('/', (req, res) => {
   res.render('index', { stores: storeList.results })
 })
 
-// routes setting2 _show one
+// routes setting2 _search .store_id
 app.get('/stores/:store_id', (req, res) => {
   const store = storeList.results.find(store => store.id.toString() === req.params.store_id)
   res.render('show', { store: store })
 })
 
-// routes setting3 _search
+// routes setting3 _search .condition
 app.get('/search', (req, res) => {
   const condition = req.query.condition
   const keyword = req.query.keyword
   let conditionResult = ''
 
-  // filter 餐廳名稱
+  // filter 餐廳名稱.name
   if (condition === 'name') {
     const stores = storeList.results.filter(store => {
       return store.name.includes(keyword)
@@ -49,7 +49,7 @@ app.get('/search', (req, res) => {
     return res.render('index', { stores: stores, keyword, name: condition, conditionResult })
   }
 
-  //filter 餐廳類別
+  //filter 餐廳類別.category
   if (condition === 'type') {
     const stores = storeList.results.filter(store => {
       return store.category.includes(keyword)
