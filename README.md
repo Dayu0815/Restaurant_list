@@ -25,3 +25,14 @@
   * 餐廳名稱
   * 餐廳類別
  
+## 安裝步驟
+step 1. 點選 Code / Clone / HTTPS 專案至本機電腦，或是打開 terminal 進行專案儲存，輸入：git clone https://github.com/Dayu0815/Restaurant_list.git
+```
+step 2. 進入專案資料夾，在終端機輸入：cd Restaurant_list
+```
+step 3. 安裝 npm 套件，在終端機輸入：npm install
+```
+step 4. 執行專案，在終端機輸入：npm run dev
+```
+step 5. 於網址列，輸入：localhost:3000
+```
