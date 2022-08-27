@@ -1,4 +1,4 @@
-# 餐廳清單
+# 餐廳清單 <img src="https://octodex.github.com/images/minion.png" alt="Minions" title="Minions Restaurant" width='30' height='30'/>
 
 本次專案收集了我們最喜歡的 8 家餐廳，目前有提供餐廳查詢服務，以利找出在地的美食。
 
@@ -19,7 +19,7 @@
   * 描述
   * 圖片
 
-* 可以透過點選地圖標示 <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Font_Awesome_5_solid_map-marked-alt.svg" width="30" height="30"> ，連結至 Google Map，以利查看餐廳正確位置
+* 可以透過點選地圖標示 <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Font_Awesome_5_solid_map-marked-alt.svg" width="20" height="20"> ，連結至 Google Map，以利查看餐廳正確位置
 
 * 可以有 2 種方式搜尋餐廳：
   * 餐廳名稱
@@ -46,3 +46,7 @@
 ```
 於網址列，輸入：localhost:3000
 ```
+
+
+## 開發者
+ Minions <img src="https://octodex.github.com/images/minion.png" alt="Minions" title="Minions" width='20px' height='20px'/>
