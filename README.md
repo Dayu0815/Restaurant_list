@@ -1,4 +1,4 @@
-# 餐廳清單 <img src="https://octodex.github.com/images/minion.png" alt="Minions" title="Minions Restaurant" width='20' height='20'/>
+# 餐廳清單 <img src="https://octodex.github.com/images/minion.png" alt="Minions" title="Minions Restaurant" width='30' height='30'/>
 
 本次專案收集了我們最喜歡的 8 家餐廳，目前有提供餐廳查詢服務，以利找出在地的美食。
 
@@ -25,7 +25,7 @@
   * 餐廳名稱
   * 餐廳類別
  
-## 安裝步驟 <img src="https://octodex.github.com/images/minion.png" alt="Minions" title="Minions" width='20px' height='20px'/>
+## 安裝步驟 <img src="https://octodex.github.com/images/minion.png" alt="Minions" title="Minions" width='30px' height='30px'/>
 * step 1.
 ```
 點選 Code / Clone / HTTPS 專案至本機電腦，或是打開 terminal 進行專案儲存，輸入：git clone https://github.com/Dayu0815/Restaurant_list.git
@@ -48,5 +48,5 @@
 ```
 
 
-## 開發者 <img src="https://octodex.github.com/images/minion.png" alt="Minions" title="Minions" width='20px' height='20px'/>
+## 開發者 <img src="https://octodex.github.com/images/minion.png" alt="Minions" title="Minions" width='30px' height='30px'/>
  Minions 
