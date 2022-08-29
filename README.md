@@ -48,5 +48,5 @@
 ```
 
 
-## 開發者 <img src="https://octodex.github.com/images/minion.png" alt="Minions" title="Minions" width='30px' height='30px'/>
+## 開發者 <img src="https://stickershop.line-scdn.net/stickershop/v1/sticker/425269465/iPhone/sticker_animation@2x.png" alt="Minions" title="Minions" width='30px' height='30px'/>
  Minions 
