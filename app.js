@@ -37,16 +37,7 @@ app.get('/search', (req, res) => {
   if (condition === 'name') {
     const stores = storeList.results.filter(store => {
       return store.name.includes(keyword)
-    })
-
-    // not found
-    if (stores.length === 0) {
-      conditionResult = '沒有您要找的資料 !!!'
-      return res.render('index', { stores: storeList.results, keyword, name: condition, conditionResult })
-    }
-
-    conditionResult = `發現:${stores.length} 筆`
-    return res.render('index', { stores: stores, keyword, name: condition, conditionResult })
+    }) 
   }
 
   //filter 餐廳類別.category
