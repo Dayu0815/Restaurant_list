@@ -1,6 +1,6 @@
-# 餐廳清單 <img src="https://octodex.github.com/images/minion.png" alt="Minions" title="Minions Restaurant" width='30' height='30'/>
+# 餐廳清單 <img src="https://stickershop.line-scdn.net/stickershop/v1/sticker/425269463/iPhone/sticker_animation@2x.png" alt="Minions" title="Minions Restaurant" width='30' height='30'/>
 
-本次專案收集了我們最喜歡的 8 家餐廳，目前有提供餐廳查詢服務，以利找出在地的美食。
+**本次專案收集了我們最喜歡的 8 家餐廳，目前有提供餐廳查詢服務，以利找出在地的美食。**
 
 ## 功能列表
 
@@ -48,5 +48,5 @@
 ```
 
 
-## 開發者 <img src="https://octodex.github.com/images/minion.png" alt="Minions" title="Minions" width='30px' height='30px'/>
- Minions 
+## 開發者 <img src="https://stickershop.line-scdn.net/stickershop/v1/sticker/425269466/iPhone/sticker_animation@2x.png" alt="Minions" title="Minions" width='30px' height='30px'/>
+**Minions** 
