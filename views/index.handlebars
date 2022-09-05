@@ -39,26 +39,26 @@
         <div class="col-md-4 p-2">
 
           <!-- restaurants 資料庫的編號屬性為 .id -->
-          <a href="/stores/{{this.id}}" class="text-secondary">
+          <a href="/stores/{{this.id}}">
             <div class="card mb-3">
-                <img class="card-img-top" src="{{this.image}}" alt="{{this.name}}">
-              </div>
-              <div class="card-body p-3">
-                <h6 class="card-title mb-1">{{this.name}}</h6>
-
-                <div class="restaurant-category mb-1">
-                  <i class="fas fa-utensils pr-2 p-1"></i> {{this.category}}
-                </div>
-
-                <!-- 課程教材內容與 bootstrap 語法不符，目前@5.2.0版已修訂 Pill badges  -->
-                <span class="badge rounded-pill bg-danger font-weight-normal">
-                  {{this.rating}} <i class="fas fa-star fa-xs"></i>
-                </span>
-              </div>
-            </div>
+              <img class="card-img-top" src="{{this.image}}" alt="{{this.name}}">
           </a>
+          <div class="card-body p-3">
+            <h6 class="card-title mb-1">{{this.name}}</h6>
+
+            <div class="restaurant-category mb-1">
+              <i class="fas fa-utensils pr-2 p-1"></i> {{this.category}}
+
+
+              <!-- 課程教材內容與 bootstrap 語法不符，目前@5.2.0版已修訂 Pill badges  -->
+              <span class="badge rounded-pill bg-danger font-weight-normal">
+                {{this.rating}} <i class="fas fa-star fa-xs"></i>
+              </span>
+            </div>
+          </div>
         </div>
-        {{/each}}
       </div>
+      {{/each}}
     </div>
   </div>
+</div>
