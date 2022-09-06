@@ -15,13 +15,15 @@ app.set('view engine', 'handlebars')
 // setting Bootstrap 三組靜態檔案（static files）
 app.use(express.static('public'))
 
-// routes setting1 _create a variable to store restaurants ，.send使用反引號（`）
+// routes setting1 _create a variable to store restaurants 
+
 app.get('/', (req, res) => {
   // past the restaurant data into 'index' 局部模板（partial template）
   res.render('index', { stores: storeList.results })
 })
 
 // routes setting2 _search .store_id
+// localhost:3000/stores/ 網址列，鏡射導入資料庫的編號屬性為 .id 
 app.get('/stores/:store_id', (req, res) => {
   const store = storeList.results.find(store => store.id.toString() === req.params.store_id)
   res.render('show', { store: store })
